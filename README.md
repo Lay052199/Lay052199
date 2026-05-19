@@ -74,5 +74,5 @@ I am currently building projects that combine finance, AI, and data analytics, e
 
 ## 📫 Contact
 
-- Email: 你的邮箱
-- GitHub: https://github.com/你的用户名
+- Email: 17327768609@163.com
+- GitHub: https://github.com/Lay052199
